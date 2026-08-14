@@ -20,3 +20,4 @@ int main(int argc, char** argv){
     MPI_Finalize();
     return 0;
 }
+# output:Gathered data: 10203040
